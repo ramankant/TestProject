@@ -1,1 +1,3 @@
-<?php echo "file 3"; ?>
+<?php echo "file 3"; 
+echo "hi";
+?>
